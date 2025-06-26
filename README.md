@@ -2,7 +2,7 @@
 
 Cansado de perder a cabeça com a declaração de Imposto de Renda? Seus problemas acabaram! Apresentamos o **IR_AUXILIA**, a ferramenta mágica em Excel que vai transformar a sua jornada fiscal de um pesadelo em um passeio no parque (ou quase isso!).
 
-Desenvolvido para ser seu copiloto nessa aventura anual, o IR_AUXILIA é a solução perfeita para organizar e reunir todas aquelas informações cruciais que o Leão adora caçar. Prepare-se para dizer adeus à papelada espalhada e olá à tranquilidade de ter tudo no lugar certo!
+Desenvolvido para ser seu copiloto nessa aventura anual, o [IR_AUXILIA](https://github.com/sidmarb/IR_AUXILIA/blob/fd97a56381e0f48fdcba37aea6fa531398fed055/IR-AU.xlsx) é a solução perfeita para organizar e reunir todas aquelas informações cruciais que o Leão adora caçar. Prepare-se para dizer adeus à papelada espalhada e olá à tranquilidade de ter tudo no lugar certo!
 
 
 
@@ -43,5 +43,5 @@ Sabe aquela informação importante que você não quer esquecer? Ou aquele lemb
 
 ## 🤝 Contribua com o Projeto! 🤝
 
-Este projeto é um esforço para simplificar a vida de todos na hora de declarar o Imposto de Renda. Se você tem ideias, sugestões ou quer aprimorar o IR_AUXILIA, sinta-se à vontade para contribuir! Faça um fork, mande um pull request e vamos juntos tornar a declaração de IR menos assustadora para todos!
+Este projeto é um esforço para simplificar a vida de todos na hora de declarar o Imposto de Renda. Se você tem ideias, sugestões ou quer aprimorar o [IR_AUXILIA](https://github.com/sidmarb/IR_AUXILIA/blob/fd97a56381e0f48fdcba37aea6fa531398fed055/IR-AU.xlsx), sinta-se à vontade para contribuir! Faça um fork, mande um pull request e vamos juntos tornar a declaração de IR menos assustadora para todos!
 
